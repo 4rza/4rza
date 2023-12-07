@@ -9,8 +9,8 @@
 
 - What I like to do: **I really like drawing, listening to music and game development... and coding, of course**
 - 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<h3>Connect with me:</h3>
+<div>
 
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sadaa._.15/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DanielArzamen13)
