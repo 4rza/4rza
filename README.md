@@ -8,7 +8,7 @@
 - How to reach me: **santiarrua2007@gmail.com**
 
 - What I like to do: **I really like drawing, listening to music and game development... and coding, of course**
-- 
+
 <h3>Connect with me:</h3>
 <div>
 
