@@ -1,4 +1,4 @@
-<h1 >Hi 👋, I'm 4rza <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 >Hi 👋, I'm 4rza <img height="40" src="https://imgur.com/Y0CpQjP"></h1>
 <h3 >A passionate Front-End (and a beginner developer) from Paraguay</h3>
 
 - I am currently working on my **Web page and developing my video game**
